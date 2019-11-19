@@ -1,0 +1,24 @@
+{
+  "name": "basic-node-server",
+  "version": "1.0.0",
+  "description": "best ways to learn node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbs4ever/basic-node-server.git"
+  },
+  "author": "sim greenbaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbs4ever/basic-node-server/issues"
+  },
+  "homepage": "https://github.com/gbs4ever/basic-node-server#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
