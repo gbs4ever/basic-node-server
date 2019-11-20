@@ -17,6 +17,13 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.4"
+    "husky": "^3.1.0",
+    "nodemon": "^1.19.4",
+    "pretty-quick": "^2.0.1"
+  },
+   "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }
