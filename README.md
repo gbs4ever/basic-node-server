@@ -10,4 +10,4 @@ In this file we have "hard coded" much of the web server, so we can understand t
 ## Node-server
 
 Here we will use [express](https://expressjs.com/) as a web server.
-We have built out a server using templating engine ejs. If you have ever built a Rails app this will look very similar so read this code base to get a feel for it.
+We have built out a server using templating engine ejs. It is built witha the common MVC structure. If you have ever built a Rails app this will look very similar so read this code base to get a feel for it and undertand it.
